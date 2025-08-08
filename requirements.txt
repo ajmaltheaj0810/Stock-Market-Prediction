@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+yfinance>=0.2.0
+pandas>=2.0.0
+numpy>=1.26.0     # Fixed Python 3.12+ compatibility
+matplotlib>=3.8.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
+tensorflow>=2.15.0  # Updated for better compatibility
+keras>=2.15.0
+ta>=0.10.0
